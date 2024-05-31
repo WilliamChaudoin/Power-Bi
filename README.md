@@ -1,2 +1,2 @@
 # Power-Bi
-Documents dealing with Power BI expertise
+This repository is for storing and displaying all Power Bi related documents/files created by me during my academic and professional career/lifetime. To utiize these files effectively, the connected data files are also provided; check the file contents to see which ones are needed. Files are not meant to be comprehensive, just a display of knowledge and ability. This directory will continuously be updated to include more files with more advanced and detailed knowledge.
